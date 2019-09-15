@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-this-is-tanaka",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "this is tanaka-2st",
   "main": "index.js",
   "node-red": {
@@ -16,7 +16,8 @@
     "url": "git+https://github.com/tanaka2st/node-red-contrib-this-is-tanaka.git"
   },
   "keywords": [
-    "node-red"
+    "node-red",
+    "this-is-tanaka"
   ],
   "author": "tanaka2st",
   "license": "Apache-2.0",
